@@ -1,0 +1,18 @@
+.odd {
+    background-color: #ea9999;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#secondid {
+    color: #2986cc;
+    font-size: 36px;
+}
+
+#fourthid {
+    background-color: #b6d7a8;
+    font-weight: bold;
+}
