@@ -20,6 +20,13 @@ img {
   gap: 52px;
 }
 
+.plantblock {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+  align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
