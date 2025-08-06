@@ -75,11 +75,6 @@ button.cancel {
   gap: 10px;
 }
 
-.top {
-  display: flex;
-  justify-content: space-between;
-}
-
 .right {
   display: flex;
   flex-direction: column;
@@ -88,4 +83,6 @@ button.cancel {
 
 .header {
   font-size: 1.2em;
+  display: flex;
+  justify-content: space-between;
 }
